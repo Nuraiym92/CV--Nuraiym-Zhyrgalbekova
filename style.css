@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#F4DFD0;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.5em;
+    text-align: center;
+    background-image:
+    background-repeat: no-repeat;
+}
+.heading{
+    color:brown;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+}
+p,li{
+    font-size:18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.education{
+    width:25%;
+    float:left;
+    margin-right: 30px;
+}
+.edu{
+    width:50%;
+    margin:50px auto 50px auto;
+    text-align:left;
+    line-height: 2;
+}
+.experience{
+    width:50%;
+    margin:50px auto 50px auto;
+    text-align:left;
+    line-height: 2;
+}
+.computer{
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+.hobbies{
+    width:50%;
+    margin:50px auto 50px auto;
+    text-align:left;
+    line-height: 2;
+}
+.run{
+    width:25%;
+    float:left;
+    margin-right: 30px;
+}
+.works{
+    width:50%;
+    margin:50px auto 50px auto;
+    text-align:left;
+    line-height: 2;
+}
+.team{
+    width:25%;
+  float:right;
+  margin-left:30px;
+}
